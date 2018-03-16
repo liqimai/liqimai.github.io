@@ -31,7 +31,7 @@ Qimai Li, Zhichao Han, [Xiao-Ming Wu]((http://www4.comp.polyu.edu.hk/~csxmwu/))
 [[PDF](https://arxiv.org/pdf/1801.07606.pdf)]
 [[CODE](https://github.com/liqimai/gcn/tree/AAAI-18/)]
 [[BLOG](/blog/AAAI-18/)]
-[[PPT](/miscellaneous/AAAI-2018 Oral Presentation.pptx)]
+[[PPT](/miscellaneous/AAAI-2018 Oral Presentation.pdf)]
 [AAAI-18]
 
 
