@@ -1,8 +1,8 @@
 ---
 layout: resume
-excerpt: "Li Qimai's Homepage. Researcher in Data Science."
+excerpt: "Li Qimai's Homepage.."
 ---
-I'm a first-year M.Phil. student in Computer Science at [the Department of Computing](https://www.comp.polyu.edu.hk), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Dr. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/).
+I'm a second-year M.Phil. student in Computer Science at [the Department of Computing](https://www.comp.polyu.edu.hk), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Dr. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/).
  I obtained my B.S. degree from [the College of Computer Science and Technology](http://www.cs.zju.edu.cn/english/), [Zhejiang University](http://www.zju.edu.cn/english/).
 My main area of interest is machine learning, both theoretical and practical.
 
@@ -40,7 +40,7 @@ Qimai Li, Zhichao Han, [Xiao-Ming Wu]((http://www4.comp.polyu.edu.hk/~csxmwu/))
 Second-Class Prize in HUAWEI Code Craft,  
 Huawei Technologies Co., Ltd
 
-`2016` Honored Mention in Modeling Contest in Mathematics,  
+`2016` Honorable Mention in Mathematical Contest in Modeling,  
 the Consortium for Mathematics and Its Applications
 
 `2016` Excellent Group in Student Research Training Program,  
