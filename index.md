@@ -10,12 +10,13 @@ My main area of interest is machine learning, both theoretical and practical.
 ## Current Interests and Projects:
 
 - Semi-supervised Learning
-- Graph Data Mining
+- Learning from Graph-Structured Data
+- Graph Signal Processing
 
 
 ## Education
 
-`2017 - present`
+`2017 - 2019`
 __The Hong Kong Polytechnic University__  
 M.Phil. in Computer Science
 
@@ -25,29 +26,36 @@ B.E. in Computer Science
 
 
 ## Publications
+**Li, Qimai**, Xiao-Ming Wu, Han Liu, Xiaotong Zhang, and Zhichao Guan. "Label Efficient Semi-Supervised Learning via Graph Filtering." The Thirtieth IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019. [CVPR-19 Poster][PDF][CODE][PPT]
 
-[Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning](https://arxiv.org/abs/1801.07606)   
-Qimai Li, Zhichao Han, [Xiao-Ming Wu]((http://www4.comp.polyu.edu.hk/~csxmwu/))
-[[PDF](https://arxiv.org/pdf/1801.07606.pdf)]
-[[CODE](https://github.com/liqimai/gcn/tree/AAAI-18/)]
-[[BLOG](/blog/AAAI-18/)]
-[[PPT](/miscellaneous/AAAI-2018 Oral Presentation.pdf)]
-[AAAI-18]
+Wang, Yong, Xiao-Ming Wu, **Qimai Li**, Jiatao Gu, Wangmeng Xiang, Lei Zhang, and Victor OK Li. ["Large Margin Meta-Learning for Few-Shot Classification."](http://metalearning.ml/2018/papers/metalearn2018_paper11.pdf) Workshop on Meta-Learning (MetaLearn 2018) at NeurIPS. 2018.
+
+**Li, Qimai**, Zhichao Han, and Xiao-Ming Wu. "[Deeper insights into graph convolutional networks for semi-supervised learning.](https://arxiv.org/abs/1801.07606)" Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
+\[AAAI-18 Oral\]
+\[[PDF](https://arxiv.org/pdf/1801.07606.pdf)\]
+\[[CODE](https://github.com/liqimai/gcn/tree/AAAI-18/)\]
+\[[BLOG](/blog/AAAI-18/)\]
+\[[PPT](/miscellaneous/AAAI-2018 Oral Presentation.pdf)\]
 
 
 ## Awards
+`2019`
+Hong Kong Ph.D. Fellowship,  
+the Research Grants Council of Hong Kong.
+
+`2017-2019`
+Research Studentships,  
+The Hong Kong Polytechnic University.
+
 `2016`
 Second-Class Prize in HUAWEI Code Craft,  
-Huawei Technologies Co., Ltd
+Huawei Technologies Co., Ltd.
 
 `2016` Honorable Mention in Mathematical Contest in Modeling,  
-the Consortium for Mathematics and Its Applications
+the Consortium for Mathematics and Its Applications.
 
 `2016` Excellent Group in Student Research Training Program,  
-Zhejiang University
+Zhejiang University.
 
-`2015,2016` Third-Class Scholarship for Outstanding Merits,  
-Zhejiang University
-
-`2015,2016` Third-Class Scholarship for Outstanding Students,  
-Zhejiang University
+`2015,2016` Third-Class Scholarship for Outstanding Merits/Students,  
+Zhejiang University.
