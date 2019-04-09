@@ -26,7 +26,7 @@ B.E. in Computer Science
 
 
 ## Publications
-**Li, Qimai**, Xiao-Ming Wu, Han Liu, Xiaotong Zhang, and Zhichao Guan. ["Label Efficient Semi-Supervised Learning via Graph Filtering."](https://arxiv.org/abs/1901.09993) In Conference on Computer Vision and Pattern Recognition. 2019. [CVPR-19]
+**Li, Qimai**, Xiao-Ming Wu, Han Liu, Xiaotong Zhang, and Zhichao Guan. ["Label Efficient Semi-Supervised Learning via Graph Filtering."](https://arxiv.org/abs/1901.09993) In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2019. [CVPR-19]
 \[[PDF](https://arxiv.org/pdf/1901.09993.pdf)\]
 \[[CODE](https://github.com/liqimai/Efficient-SSL)\]
 \[[PPT](/miscellaneous/Label_Efficient_Semi-Supervised_Learning_via Graph_Filtering.pdf)\]
