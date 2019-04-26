@@ -4,9 +4,12 @@
 
 # - title: Presentations
 #   url: /presentations/
-#
-# - title: Resume
-#   url: /resume/
+
+- title: Publications
+  url: /publications/
+
+- title: Resume
+  url: /resume/
 
 - title: Blog
   url: /blog/
