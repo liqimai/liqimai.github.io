@@ -44,6 +44,7 @@ Wang, Yong, Xiao-Ming Wu, **Qimai Li**, Jiatao Gu, Wangmeng Xiang, Lei Zhang, an
 ## Awards
 `2019`
 Hong Kong Ph.D. Fellowship,  
+250 out of 27,000+, Top 0.9%,  
 the Research Grants Council of Hong Kong.
 
 `2017-2019`
