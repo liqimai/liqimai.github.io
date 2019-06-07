@@ -24,7 +24,7 @@ Li, Qimai, Xiao-Ming Wu, Han Liu, Xiaotong Zhang, and Zhichao Guan. ["Label Effi
 
 `2019`
 [__Award__] I am awarded Hong Kong Ph.D. Fellowship by the Research Grants Council of Hong Kong.
-250 out of 27,000+ candidates, 0.9% acceptance rate.
+250 out of 14,000+ candidates, 1.7% acceptance rate.
 
 `2018`
 [__Publication__] Our new paper is selected as oral presentation by AAAI 2018.  

@@ -24,7 +24,7 @@ B.E. in Computer Science
 ## Awards
 `2019`
 Hong Kong Ph.D. Fellowship,  
-250 out of 27,000+, Top 0.9%,  
+250 out of 14,000+, 1.7% acceptance rate,  
 the Research Grants Council of Hong Kong.
 
 `2017-2019`
