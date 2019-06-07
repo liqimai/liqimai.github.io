@@ -16,19 +16,29 @@ My main area of interest is machine learning, both theoretical and practical.
 
 ## News
 `2019`
-[__Publication__]  Our new paper is accepted by CVPR 2019.  
-Li, Qimai, Xiao-Ming Wu, Han Liu, Xiaotong Zhang, and Zhichao Guan. ["Label Efficient Semi-Supervised Learning via Graph Filtering."](https://arxiv.org/abs/1901.09993) In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2019. [CVPR-19]
+[Publication] "[Attributed Graph Clustering via Adaptive Graph Convolution.](https://arxiv.org/abs/1906.01210)"  
+Xiaotong Zhang\*, Han Liu\*, __Qimai Li*__, Xiao-Ming Wu. (\* Equal Contribution)  
+In Proceedings of the 28th International Joint Conference on Artificial Intelligence. 2019. [IJCAI-19]
+\[[PDF](https://arxiv.org/pdf/1906.01210.pdf)\]
+\[[CODE](https://github.com/karenlatong/AGC-master)\]
+\[PPT\]
+
+`2019`
+[Publication] "[Label Efficient Semi-Supervised Learning via Graph Filtering.](https://arxiv.org/abs/1901.09993)"  
+__Li, Qimai__, Xiao-Ming Wu, Han Liu, Xiaotong Zhang, and Zhichao Guan.  
+In IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019. [CVPR-19]
 \[[PDF](https://arxiv.org/pdf/1901.09993.pdf)\]
 \[[CODE](https://github.com/liqimai/Efficient-SSL)\]
 \[[PPT](/miscellaneous/Label_Efficient_Semi-Supervised_Learning_via Graph_Filtering.pdf)\]
 
 `2019`
-[__Award__] I am awarded Hong Kong Ph.D. Fellowship by the Research Grants Council of Hong Kong.
+[Award] I am awarded __Hong Kong Ph.D. Fellowship__ by the Research Grants Council of Hong Kong.
 250 out of 14,000+ candidates, 1.7% acceptance rate.
 
 `2018`
-[__Publication__] Our new paper is selected as oral presentation by AAAI 2018.  
-Li, Qimai, Zhichao Han, and Xiao-Ming Wu. "[Deeper insights into graph convolutional networks for semi-supervised learning.](https://arxiv.org/abs/1801.07606)" Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
+[Publication] "[Deeper insights into graph convolutional networks for semi-supervised learning.](https://arxiv.org/abs/1801.07606)"  
+__Li, Qimai__, Zhichao Han, and Xiao-Ming Wu.  
+In Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
 \[AAAI-18 Oral\]
 \[[PDF](https://arxiv.org/pdf/1801.07606.pdf)\]
 \[[CODE](https://github.com/liqimai/gcn/tree/AAAI-18/)\]
@@ -36,7 +46,7 @@ Li, Qimai, Zhichao Han, and Xiao-Ming Wu. "[Deeper insights into graph convoluti
 \[[PPT](/miscellaneous/AAAI-2018 Oral Presentation.pdf)\]
 
 `2018`
-[__Admission__] I am admitted by [the Department of Computing](https://www.comp.polyu.edu.hk), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), as an M.Phil. student, supervised by [Dr. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/).
+[Admission] I am admitted by [the Department of Computing](https://www.comp.polyu.edu.hk), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), as an M.Phil. student, supervised by [Dr. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/).
 
 `2017`
-[__Diploma__] I obtained my B.S. degree from [the College of Computer Science and Technology](http://www.cs.zju.edu.cn/english/), [Zhejiang University](http://www.zju.edu.cn/english/).
+[Diploma] I obtained my B.S. degree from [the College of Computer Science and Technology](http://www.cs.zju.edu.cn/english/), [Zhejiang University](http://www.zju.edu.cn/english/).

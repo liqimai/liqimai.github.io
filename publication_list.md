@@ -1,5 +1,10 @@
 ## Publications
-**Li, Qimai**, Xiao-Ming Wu, Han Liu, Xiaotong Zhang, and Zhichao Guan. ["Label Efficient Semi-Supervised Learning via Graph Filtering."](https://arxiv.org/abs/1901.09993) In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 2019. [CVPR-19]
+Xiaotong Zhang, Han Liu, **Qimai Li** and Xiao-Ming Wu. "[Attributed Graph Clustering via Adaptive Graph Convolution.](https://arxiv.org/abs/1906.01210)" In Proceedings of the 28th International Joint Conference on Artificial Intelligence. 2019. [IJCAI-19]
+\[[PDF](https://arxiv.org/pdf/1906.01210.pdf)\]
+\[[CODE](https://github.com/karenlatong/AGC-master)\]
+\[PPT\]
+
+**Li, Qimai**, Xiao-Ming Wu, Han Liu, Xiaotong Zhang, and Zhichao Guan. ["Label Efficient Semi-Supervised Learning via Graph Filtering."](https://arxiv.org/abs/1901.09993) In IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019. [CVPR-19]
 \[[PDF](https://arxiv.org/pdf/1901.09993.pdf)\]
 \[[CODE](https://github.com/liqimai/Efficient-SSL)\]
 \[[PPT](/miscellaneous/Label_Efficient_Semi-Supervised_Learning_via Graph_Filtering.pdf)\]
