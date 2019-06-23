@@ -1,5 +1,5 @@
 ## Publications
-Xiaotong Zhang, Han Liu, **Qimai Li** and Xiao-Ming Wu. "[Attributed Graph Clustering via Adaptive Graph Convolution.](https://arxiv.org/abs/1906.01210)" In Proceedings of the 28th International Joint Conference on Artificial Intelligence. 2019. [IJCAI-19]
+Zhang, Xiaotong, Han Liu, **Qimai Li** and Xiao-Ming Wu. "[Attributed Graph Clustering via Adaptive Graph Convolution.](https://arxiv.org/abs/1906.01210)" In Proceedings of the 28th International Joint Conference on Artificial Intelligence. 2019. [IJCAI-19]
 \[[PDF](https://arxiv.org/pdf/1906.01210.pdf)\]
 \[[CODE](https://github.com/karenlatong/AGC-master)\]
 \[PPT\]

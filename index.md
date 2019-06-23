@@ -2,7 +2,7 @@
 layout: resume
 excerpt: "Li Qimai's Homepage.."
 ---
-I'm a second-year M.Phil. student at [the Department of Computing](https://www.comp.polyu.edu.hk), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Dr. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/).
+I'm a second-year Ph.D. student at [the Department of Computing](https://www.comp.polyu.edu.hk), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Dr. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/).
  I obtained my B.S. degree from [the College of Computer Science and Technology](http://www.cs.zju.edu.cn/english/), [Zhejiang University](http://www.zju.edu.cn/english/).
 My main area of interest is machine learning, both theoretical and practical.
 
@@ -17,7 +17,7 @@ My main area of interest is machine learning, both theoretical and practical.
 ## News
 `2019`
 [Publication] "[Attributed Graph Clustering via Adaptive Graph Convolution.](https://arxiv.org/abs/1906.01210)"  
-Xiaotong Zhang\*, Han Liu\*, __Qimai Li*__, Xiao-Ming Wu. (\* Equal Contribution)  
+Zhang, Xiaotong\*, Han Liu\*, __Qimai Li*__, Xiao-Ming Wu. (\* Equal Contribution)  
 In Proceedings of the 28th International Joint Conference on Artificial Intelligence. 2019. [IJCAI-19]
 \[[PDF](https://arxiv.org/pdf/1906.01210.pdf)\]
 \[[CODE](https://github.com/karenlatong/AGC-master)\]
