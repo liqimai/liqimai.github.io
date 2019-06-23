@@ -30,6 +30,7 @@ In IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019. [CVPR-1
 \[[PDF](https://arxiv.org/pdf/1901.09993.pdf)\]
 \[[CODE](https://github.com/liqimai/Efficient-SSL)\]
 \[[PPT](/miscellaneous/Label_Efficient_Semi-Supervised_Learning_via Graph_Filtering.pdf)\]
+\[[POSTER](/miscellaneous/cvpr19_poster.pdf)\]
 
 `2019`
 [Award] I am awarded __Hong Kong Ph.D. Fellowship__ by the Research Grants Council of Hong Kong.

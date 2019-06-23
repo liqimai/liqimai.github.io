@@ -8,6 +8,7 @@ Xiaotong Zhang, Han Liu, **Qimai Li** and Xiao-Ming Wu. "[Attributed Graph Clust
 \[[PDF](https://arxiv.org/pdf/1901.09993.pdf)\]
 \[[CODE](https://github.com/liqimai/Efficient-SSL)\]
 \[[PPT](/miscellaneous/Label_Efficient_Semi-Supervised_Learning_via Graph_Filtering.pdf)\]
+\[[POSTER](/miscellaneous/cvpr19_poster.pdf)\]
 
 Wang, Yong, Xiao-Ming Wu, **Qimai Li**, Jiatao Gu, Wangmeng Xiang, Lei Zhang, and Victor OK Li. ["Large Margin Meta-Learning for Few-Shot Classification."](http://metalearning.ml/2018/papers/metalearn2018_paper11.pdf) Workshop on Meta-Learning (MetaLearn 2018) at NeurIPS. 2018.
 
