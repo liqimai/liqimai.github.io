@@ -371,7 +371,7 @@ $button-size: 1.5rem;
   &:active {
     @include translate(0, 2px);
   }
-  .fa {
+  .fa, .ai {
 		margin-right: 5px;
 	}
 }

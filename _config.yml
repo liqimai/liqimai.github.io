@@ -9,7 +9,7 @@ owner:
   name: Qimai Li
   chinesename: 李其迈
   avatar: head.jpg
-  bio: "M.Phil. in CS<br>The Hong Kong PolyU"
+  bio: "Ph.D. Student <br>Department of Computing <br>The Hong Kong PolyU"
   email: csqmli@comp.polyu.edu.hk #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
@@ -22,7 +22,7 @@ owner:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: i6yDLl8AAAAJ #id
   facebook:  #username
   instagram: #username
   bing-verify:
