@@ -7,6 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Qimai Li
+  chinesename: 李其迈
   avatar: head.jpg
   bio: "M.Phil. in CS<br>The Hong Kong PolyU"
   email: csqmli@comp.polyu.edu.hk #emailaddress
