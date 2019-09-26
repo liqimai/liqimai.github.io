@@ -16,6 +16,13 @@ My main area of interest is machine learning, both theoretical and practical.
 
 ## News
 `2019`
+[Publication]
+"Reconstructing Capsule Networks for Zero-shot Intent Classification."
+Han Liu, Xiaotong Zhang, Lu Fan, Xuandi Fu, **Qimai Li**, Xiao-Ming Wu, Albert Y.S. Lam
+In Proceedings of 2019 Conference on Empirical Methods in Natural Language Processing (Long Paper). 2019. [EMNLP-19]
+\[[PDF](http://www4.comp.polyu.edu.hk/~csxmwu/papers/IJCAI-2019-AGC.pdf)\]
+
+`2019`
 [Publication] "[Attributed Graph Clustering via Adaptive Graph Convolution.](https://arxiv.org/abs/1906.01210)"  
 Zhang, Xiaotong\*, Han Liu\*, __Qimai Li*__, Xiao-Ming Wu. (\* Equal Contribution)  
 In Proceedings of the 28th International Joint Conference on Artificial Intelligence. 2019. [IJCAI-19]
