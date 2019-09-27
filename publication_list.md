@@ -1,7 +1,7 @@
 ## Publications
 Han Liu, Xiaotong Zhang, Lu Fan, Xuandi Fu, **Qimai Li**, Xiao-Ming Wu, Albert Y.S. Lam
 "Reconstructing Capsule Networks for Zero-shot Intent Classification" In Proceedings of 2019 Conference on Empirical Methods in Natural Language Processing (Long Paper). 2019. [EMNLP-19]
-\[[PDF](http://www4.comp.polyu.edu.hk/~csxmwu/papers/IJCAI-2019-AGC.pdf)\]
+\[[PDF](http://www4.comp.polyu.edu.hk/~csxmwu/papers/EMNLP-2019-ReCapsNet.pdf)\]
 
 Zhang, Xiaotong, Han Liu, **Qimai Li** and Xiao-Ming Wu. "[Attributed Graph Clustering via Adaptive Graph Convolution.](https://arxiv.org/abs/1906.01210)" In Proceedings of the 28th International Joint Conference on Artificial Intelligence. 2019. [IJCAI-19]
 \[[PDF](https://arxiv.org/pdf/1906.01210.pdf)\]
