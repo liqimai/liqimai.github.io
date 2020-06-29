@@ -2,7 +2,7 @@
 layout: resume
 ---
 ## Currently
-I'm a second-year Ph.D. student at [the Department of Computing](https://www.comp.polyu.edu.hk), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Dr. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/).
+I'm a third-year Ph.D. student at [the Department of Computing](https://www.comp.polyu.edu.hk), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Dr. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/).
  I obtained my B.S. degree from [the College of Computer Science and Technology](http://www.cs.zju.edu.cn/english/), [Zhejiang University](http://www.zju.edu.cn/english/).
 My main area of interest is machine learning, both theoretical and practical.
 

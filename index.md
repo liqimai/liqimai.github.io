@@ -2,29 +2,39 @@
 layout: resume
 excerpt: "Li Qimai's Homepage.."
 ---
-I'm a second-year Ph.D. student at [the Department of Computing](https://www.comp.polyu.edu.hk), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Dr. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/).
+I'm a third-year Ph.D. student at [the Department of Computing](https://www.comp.polyu.edu.hk), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Dr. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/).
  I obtained my B.S. degree from [the College of Computer Science and Technology](http://www.cs.zju.edu.cn/english/), [Zhejiang University](http://www.zju.edu.cn/english/).
 My main area of interest is machine learning, both theoretical and practical.
 
 
 ## Current Interests and Projects:
-
-- Semi-supervised Learning
-- Learning from Graph-Structured Data
+- Machine Learning
+    - Semi-supervised Learning
+    - Unsupervised Learning
+    - Learning from Graph-Structured Data
 - Graph Signal Processing
-
+    - Graph Convolution
+    - Graph Sampling
 
 ## News
+
+`2020`
+[Publication]
+"[Unknown Intent Detection Using Gaussian Mixture Model with an Application to Zero-shot Intent Classification.](https://www.aclweb.org/anthology/2020.acl-main.99/)"  
+Guangfeng Yan, Lu Fan, **Qimai Li (co-first author)**, Han Liu, Xiaotong Zhang, Xiao-Ming Wu, Albert Y.S. Lam.  
+In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (Long Paper). 2020. [ACL-20]
+\[[PDF](https://www.aclweb.org/anthology/2020.acl-main.99.pdf)\]
+
 `2019`
 [Publication]
-"Reconstructing Capsule Networks for Zero-shot Intent Classification."
-Han Liu, Xiaotong Zhang, Lu Fan, Xuandi Fu, **Qimai Li**, Xiao-Ming Wu, Albert Y.S. Lam
+"Reconstructing Capsule Networks for Zero-shot Intent Classification."  
+Han Liu, Xiaotong Zhang, Lu Fan, Xuandi Fu, **Qimai Li**, Xiao-Ming Wu, Albert Y.S. Lam.  
 In Proceedings of 2019 Conference on Empirical Methods in Natural Language Processing (Long Paper). 2019. [EMNLP-19]
 \[[PDF](http://www4.comp.polyu.edu.hk/~csxmwu/papers/EMNLP-2019-ReCapsNet.pdf)\]
 
 `2019`
 [Publication] "[Attributed Graph Clustering via Adaptive Graph Convolution.](https://arxiv.org/abs/1906.01210)"  
-Zhang, Xiaotong\*, Han Liu\*, __Qimai Li*__, Xiao-Ming Wu. (\* Equal Contribution)  
+Zhang, Xiaotong\*, Han Liu\*, **Qimai Li (co-first author)**, Xiao-Ming Wu.  
 In Proceedings of the 28th International Joint Conference on Artificial Intelligence. 2019. [IJCAI-19]
 \[[PDF](https://arxiv.org/pdf/1906.01210.pdf)\]
 \[[CODE](https://github.com/karenlatong/AGC-master)\]
