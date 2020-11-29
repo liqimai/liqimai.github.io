@@ -1,7 +1,10 @@
 ## Publications & Work in Submission
 **Citations: 321** (June, 2020).
 
-**Qimai Li**, Xiaotong Zhang, Han Liu, Quanyu Dai, Xiao-Ming Wu. "[Unsupervised and Semi-Supervised Learning with 2-D Graph Convolution.](https://arxiv.org/abs/1909.12038)" In submission.
+Jiaxin Chen, Xiao-Ming Wu, Yanke Li, **Qimai Li**, Li-Ming Zhan, Fu-lai Chung. "[A Closer Look at the Training Strategy for Modern Meta-Learning.](https://papers.nips.cc/paper/2020/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html)"
+in Proceedings of the Thirty-fourth Conference on Neural Information Processing Systems (NeurIPS 2020).
+
+**Qimai Li**, Xiaotong Zhang, Han Liu, Quanyu Dai, Xiao-Ming Wu. "[Unsupervised and Semi-Supervised Learning with 2-D Graph Convolution.](https://arxiv.org/abs/1909.12038)" under review.
 \[[PDF](https://arxiv.org/pdf/1909.12038.pdf)\]
 
 Guangfeng Yan, Lu Fan, **Qimai Li (co-first author)**, Han Liu, Xiaotong Zhang, Xiao-Ming Wu, Albert Y.S. Lam. "[Unknown Intent Detection Using Gaussian Mixture Model with an Application to Zero-shot Intent Classification.](https://www.aclweb.org/anthology/2020.acl-main.99/)" In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (Long Paper). 2020. [ACL-20]
