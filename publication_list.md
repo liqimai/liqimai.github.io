@@ -1,14 +1,15 @@
 ## Publications & Work in Submission
 **Citations: 763** (June, 2021).
 
+**Qimai Li**, Xiaotong Zhang, Han Liu, Quanyu Dai, Xiao-Ming Wu. "[Dimensionwise Separable 2-D Graph Convolution for Unsupervised and Semi-Supervised Learning on Graphs.](https://arxiv.org/abs/1909.12038)" In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '21). 2021. [KDD 21]
+\[[PDF](https://arxiv.org/pdf/1909.12038.pdf)\]
+\[[CODE](https://github.com/liqimai/DSGC)\]
+
 Han Liu, Xiaotong Zhang, Xianchao Zhang, **Qimai Li**, Xiao-Ming Wu.
 "[RPC: Representative possible world based consistent clustering algorithm for uncertain dat](https://www.sciencedirect.com/science/article/pii/S0140366421002267)", Computer Communications, Volume 176, 2021, Pages 128-137, ISSN 0140-3664.
 
 Jiaxin Chen, Xiao-Ming Wu, Yanke Li, **Qimai Li**, Li-Ming Zhan, Fu-lai Chung. "[A Closer Look at the Training Strategy for Modern Meta-Learning.](https://papers.nips.cc/paper/2020/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html)"
 in Proceedings of the Thirty-fourth Conference on Neural Information Processing Systems (NeurIPS 2020).
-
-**Qimai Li**, Xiaotong Zhang, Han Liu, Quanyu Dai, Xiao-Ming Wu. "[Unsupervised and Semi-Supervised Learning with 2-D Graph Convolution.](https://arxiv.org/abs/1909.12038)" under review.
-\[[PDF](https://arxiv.org/pdf/1909.12038.pdf)\]
 
 Guangfeng Yan, Lu Fan, **Qimai Li (co-first author)**, Han Liu, Xiaotong Zhang, Xiao-Ming Wu, Albert Y.S. Lam. "[Unknown Intent Detection Using Gaussian Mixture Model with an Application to Zero-shot Intent Classification.](https://www.aclweb.org/anthology/2020.acl-main.99/)" In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (Long Paper). 2020. [ACL-20]
 \[[PDF](https://www.aclweb.org/anthology/2020.acl-main.99.pdf)\] \[[CODE](https://github.com/fanolabs/0shot-classification)\]
