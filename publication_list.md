@@ -1,5 +1,8 @@
 ## Publications & Work in Submission
-**Citations: 321** (June, 2020).
+**Citations: 763** (June, 2021).
+
+Han Liu, Xiaotong Zhang, Xianchao Zhang, **Qimai Li**, Xiao-Ming Wu.
+"[RPC: Representative possible world based consistent clustering algorithm for uncertain dat](https://www.sciencedirect.com/science/article/pii/S0140366421002267)", Computer Communications, Volume 176, 2021, Pages 128-137, ISSN 0140-3664.
 
 Jiaxin Chen, Xiao-Ming Wu, Yanke Li, **Qimai Li**, Li-Ming Zhan, Fu-lai Chung. "[A Closer Look at the Training Strategy for Modern Meta-Learning.](https://papers.nips.cc/paper/2020/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html)"
 in Proceedings of the Thirty-fourth Conference on Neural Information Processing Systems (NeurIPS 2020).
@@ -8,7 +11,7 @@ in Proceedings of the Thirty-fourth Conference on Neural Information Processing 
 \[[PDF](https://arxiv.org/pdf/1909.12038.pdf)\]
 
 Guangfeng Yan, Lu Fan, **Qimai Li (co-first author)**, Han Liu, Xiaotong Zhang, Xiao-Ming Wu, Albert Y.S. Lam. "[Unknown Intent Detection Using Gaussian Mixture Model with an Application to Zero-shot Intent Classification.](https://www.aclweb.org/anthology/2020.acl-main.99/)" In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (Long Paper). 2020. [ACL-20]
-\[[PDF](https://www.aclweb.org/anthology/2020.acl-main.99.pdf)\]
+\[[PDF](https://www.aclweb.org/anthology/2020.acl-main.99.pdf)\] \[[CODE](https://github.com/fanolabs/0shot-classification)\]
 
 Han Liu, Xiaotong Zhang, Lu Fan, Xuandi Fu, **Qimai Li**, Xiao-Ming Wu, Albert Y.S. Lam.
 "[Reconstructing Capsule Networks for Zero-shot Intent Classification.](https://www.aclweb.org/anthology/D19-1486/)" In Proceedings of 2019 Conference on Empirical Methods in Natural Language Processing (Long Paper). 2019. [EMNLP-19]
