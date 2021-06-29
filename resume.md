@@ -23,14 +23,24 @@ B.E. in Computer Science
 
 
 ## Awards
+`2021`
+One of the Most Influential AAAI Papers,  
+10 out of 933 accepted papers in 2018, top 1.1%,  
+selected by Paper Digest,
+
 `2019`
 Hong Kong Ph.D. Fellowship,  
 250 out of 14,000+, 1.7% acceptance rate,  
 the Research Grants Council of Hong Kong.
 
+`2019-2021`
+COMP Scholarship for HK PhD Fellowship Students,  
+the Department of Computing,  
+the Hong Kong Polytechnic University.
+
 `2017-2019`
 Research Studentships,  
-The Hong Kong Polytechnic University.
+the Hong Kong Polytechnic University.
 
 `2016`
 Second-Class Prize in HUAWEI Code Craft,  
@@ -42,5 +52,5 @@ the Consortium for Mathematics and Its Applications.
 `2016` Excellent Group in Student Research Training Program,  
 Zhejiang University.
 
-`2015,2016` Third-Class Scholarship for Outstanding Merits/Students,  
+`2015,2016` Scholarship for Outstanding Merits/Students,  
 Zhejiang University.
