@@ -9,7 +9,7 @@ owner:
   name: Qimai Li
   chinesename: 李其迈
   avatar: head.jpg
-  bio: "Ph.D. Student <br>Department of Computing <br>The Hong Kong PolyU"
+  bio: "Ph.D. Student <br/>Department of Computing <br/>The Hong Kong PolyU"
   email: csqmli@comp.polyu.edu.hk #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
@@ -70,6 +70,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
+  footnote_backlink: "\u21a9\ufe0e"
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]

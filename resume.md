@@ -1,7 +1,15 @@
 ---
 layout: resume
 ---
-[Click to download PDF resume.](/miscellaneous/LiQimai_CV.pdf)
+## Download Resume in PDF format: \[[Chinese version](/miscellaneous/LiQimai_Chinese.pdf)\] \[[English version](/miscellaneous/LiQimai_English.pdf)\].
+
+I am looking for a job as
+ - Machine Learning Algorithm Engineer,
+ - Machine Learning Framework Developer,
+ - Research Scientist,
+ - Any other AI/ML/CS related jobs,
+ - Software Development Engineer.
+
 ## Currently
 I'm a third-year Ph.D. student at [the Department of Computing](https://www.comp.polyu.edu.hk), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Dr. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/).
  I obtained my B.S. degree from [the College of Computer Science and Technology](http://www.cs.zju.edu.cn/english/), [Zhejiang University](http://www.zju.edu.cn/english/).

@@ -29,11 +29,13 @@
     </div><!--/ .headline-wrap -->
     <div class="article-wrap">
       {{ content }}
+      {% if page.timeinfo %}
       <hr />
       <footer role="contentinfo">
         {% if page.share != false %}{% include _social-share.html %}{% endif %}
-        <p class="byline"><strong>{{ page.title }}</strong> was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
+        <p class="byline">This article was published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
       </footer>
+      {% endif %}
     </div><!-- /.article-wrap -->
   {% if site.owner.disqus-shortname and page.comments == true %}
     <section id="disqus_thread"></section><!-- /#disqus_thread -->
@@ -41,6 +43,7 @@
   </article>
 </div><!-- /#main -->
 
+{% if page.related_posts %}
 <div class="footer-wrap">
   {% if site.related_posts.size > 0 %}
   <div class="related-articles">
@@ -57,6 +60,7 @@
     {% include _footer.html %}
   </footer>
 </div><!-- /.footer-wrap -->
+{% endif %}
 
 {% include _scripts.html %}
 
