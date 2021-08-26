@@ -3,7 +3,7 @@ layout: resume
 excerpt: "Li Qimai's Homepage.."
 ---
 
-## <span style="color: red">I am looking for a job! [My Resume.](/resume/)</span>
+## <span style="color: red">I am looking for a job!</span> [Click here to view my resume.](/resume/)
 
 I'm a fourth-year Ph.D. student at [the Department of Computing](https://www.comp.polyu.edu.hk), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Dr. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/), and expected to graduate in 2022.
  I obtained my B.E. degree from [the College of Computer Science and Technology](http://www.cs.zju.edu.cn/english/), [Zhejiang University](http://www.zju.edu.cn/english/).
