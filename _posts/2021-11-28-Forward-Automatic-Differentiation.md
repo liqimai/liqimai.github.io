@@ -146,7 +146,7 @@ Although matrix multiplication is associative, the complexity is not associative
 
 $$x\in \mathbb R^{N_0}, f_1\in\mathbb R^{N_1}, \dots, f_k\in\mathbb R^{N_k}.$$
 
-Computational complexity of two method are listed below.
+Computational complexity of two methods are summarized below:
 
 |           | Computational Complexity               | When it is faster?     |
 |:--------- |:---------------------------------------| :---------------------:|
@@ -197,9 +197,9 @@ __Forward AD__, in contrast, only need to go through the computational graph for
 
 Each step only relies on the \\(f_i\\) and \\(\Jac {f_i} x\\) obtained in last step, so we can drop \\(\bf J_i\\) immediately after use to save space. As a result, the space cost is only 
 
-$$\max_{i} \left(N_0N_i + N_0N_{i+1} + N_iN_{i+1} \right),$$
+$$\max_{i} \left(N_0N_i + N_0N_{i+1} + N_iN_{i+1} \right).$$
 
-which is much smaller than space cost of backward AD (except some special cases).
+Space cost of two methods are summarized below:
 
 |           | Space Complexity                                                |
 |:--------- |:----------------------------------------------------------------|
@@ -208,7 +208,7 @@ which is much smaller than space cost of backward AD (except some special cases)
 
 Their is no simple pattern to decide which one costs less space. Generally, if network is deep (large k), then backward AD need to store lots of Jacobian matrix \\(\bf J_i\\) and tend to consume more space than forward AD. If network input size is greatly larger than its output size (\\(N_0 \gg N_k\\)), then Forward AD tend consume more space than backward AD.
 
-### A Special case -- Trumpet-Like Network
+### A Special Case -- Trumpet-Like Network
 For a special yet common family of networks -- the network with trumpet-like  architecture, forward AD do have spatial advantage. A networks is said to have trumpet-like architecture, if its width gradually decreases from input layer to output layer, like a trumpet. More formally, if \\(N_0 \ge N_1 \ge \dots \ge N_k\\), then the network is a trumpet-like network. 
 
 |           | Space Complexity of Trumpet-Like Networks  |
