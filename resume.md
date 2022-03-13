@@ -32,6 +32,10 @@ B.E. in Computer Science
 
 
 ## Awards
+`2022`
+One of [The 2022 AI 2000 Most Influential Scholars](https://www.aminer.cn/ai2000?domain_ids=5dc122672ebaa6faa962bde8),  
+selected by AMiner.
+
 `2021`
 One of the Most Influential AAAI Papers,  
 10 out of 933 accepted papers in 2018, top 1.1%,  

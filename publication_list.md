@@ -1,5 +1,4 @@
 ## Publications
-**Published 7 papers in top AI conferences, 3 as first author, 2 as co-first author, 800+ citations.**
 
 **Qimai Li**, Xiaotong Zhang, Han Liu, Quanyu Dai, Xiao-Ming Wu. "[Dimensionwise Separable 2-D Graph Convolution for Unsupervised and Semi-Supervised Learning on Graphs.](https://arxiv.org/abs/1909.12038)" In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '21). 2021. [KDD-21]
 \[[PDF](https://arxiv.org/pdf/1909.12038.pdf)\]
