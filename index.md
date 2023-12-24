@@ -3,26 +3,34 @@ layout: resume
 excerpt: "Li Qimai's Homepage.."
 ---
 
+I am currently working at Parametrix.AI. 
+I obtained Ph.D. degree from [the Department of Computing](https://www.comp.polyu.edu.hk) at [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Prof. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/), and my B.E. degree from [the College of Computer Science and Technology](http://www.cs.zju.edu.cn/english/) at [Zhejiang University](http://www.zju.edu.cn/english/).
+My main area of interest is machine learning, both theoretical and practical, and build super fast machine learning systems.
 
-I'm a fourth-year Ph.D. student at [the Department of Computing](https://www.comp.polyu.edu.hk), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Dr. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/). I obtained my B.E. degree from [the College of Computer Science and Technology](http://www.cs.zju.edu.cn/english/), [Zhejiang University](http://www.zju.edu.cn/english/).
-My main area of interest is machine learning, both theoretical and practical.
 
-
-## Current Interests and Projects:
+## Current Interests:
 - Machine Learning
-    - Semi-supervised Learning
-    - Unsupervised Learning
     - Learning from Graph-Structured Data
-- Graph Signal Processing
-    - Graph Convolution
-    - Graph Sampling
+    - Reinforcement Learning
+    - Large Language Model
+    - Generative Model
+- High Performance Computing
+    - CUDA Acceleration
+    - ML Framework Customization
+    - General-Purpose Tensor Programming
 
 ## News
+`2023` [Award] Our paper, [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model](https://arxiv.org/abs/2311.13231), was selected as [HuggingFace Daily Paper](https://huggingface.co/papers?date=2023-11-23).
+
+`2023` [Diploma] I obtained my Ph.D. degree from [the Hong Kong Polytechnic University](https://www.polyu.edu.hk).
+
+`2022` [Thesis] My PhD thesis "[Learning on graphs with graph convolution](https://theses.lib.polyu.edu.hk/handle/200/12326)"  is released.
+
 `2022`
 [Award] I am selected as one of [The 2022 AI 2000 Most Influential Scholars](https://www.aminer.cn/ai2000?domain_ids=5dc122672ebaa6faa962bde8) by AMiner.
 
 `2021`
-[Award] Our paper "[Deeper insights into graph convolutional networks for semi-supervised learning.](https://arxiv.org/abs/1801.07606)" was selected as one of the **Most Influential AAAI Papers** by Paper Digest (**673 Citations** as of June 29, 2021).
+[Award] Our paper "[Deeper insights into graph convolutional networks for semi-supervised learning.](https://arxiv.org/abs/1801.07606)" was selected as one of the **Most Influential AAAI Papers** by Paper Digest (**2478 Citations** as of December, 2023).
 
 
 <!-- `2020`
@@ -60,8 +68,8 @@ In IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019. [CVPR-1
 [Award] I am awarded __Hong Kong Ph.D. Fellowship__ by the Research Grants Council of Hong Kong.
 250 out of 14,000+ candidates, 1.7% acceptance rate.
 
-`2019`
-[Admission] I am admitted by [the Department of Computing](https://www.comp.polyu.edu.hk), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), as an Ph.D. student, supervised by [Dr. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/).
+<!-- `2019`
+[Admission] I am admitted by [the Department of Computing](https://www.comp.polyu.edu.hk), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), as an Ph.D. student, supervised by [Dr. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/). -->
 
 <!-- `2018`
 [Publication] "[Deeper insights into graph convolutional networks for semi-supervised learning.](https://arxiv.org/abs/1801.07606)"  

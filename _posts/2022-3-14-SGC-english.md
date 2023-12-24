@@ -100,7 +100,7 @@ Based on the above reasons, we feel the need to clarify the facts.
 
 
 
-<script>
+<script defer>
     // console.log("Hello");
     supfix = document.querySelectorAll("sup[role='doc-noteref'] a.footnote[rel='footnote']");
     [...supfix].forEach(node => {
@@ -112,7 +112,7 @@ Based on the above reasons, we feel the need to clarify the facts.
 </script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.6.347/pdf.min.js" integrity="sha512-Z8CqofpIcnJN80feS2uccz+pXWgZzeKxDsDNMD/dJ6997/LSRY+W4NmEt9acwR+Gt9OHN0kkI1CTianCwoqcjQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script id="script">
+<script defer>
   // If absolute URL from the remote server is provided, configure the CORS
   // header on that server.
   var canvas = document.getElementById('the-canvas');

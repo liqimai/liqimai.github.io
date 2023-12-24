@@ -4,31 +4,28 @@ layout: resume
 
 ## Download Resume in PDF format: \[[Chinese version](/miscellaneous/LiQimai_Chinese.pdf)\] \[[English version](/miscellaneous/LiQimai_English.pdf)\].
 
+<!-- 
 I am looking for a job as
  - Machine Learning Algorithm Engineer,
  - Machine Learning Framework Developer,
- - Research Scientist,
- - Any other AI/ML/CS related jobs,
- - Software Development Engineer.
+ - Research Scientist.
+-->
 
 ## Currently
-I'm a third-year Ph.D. student at [the Department of Computing](https://www.comp.polyu.edu.hk), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Dr. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/).
- I obtained my B.S. degree from [the College of Computer Science and Technology](http://www.cs.zju.edu.cn/english/), [Zhejiang University](http://www.zju.edu.cn/english/).
-My main area of interest is machine learning, both theoretical and practical.
+I am currently working at Parametrix.AI. 
+I obtained Ph.D. degree from [the Department of Computing](https://www.comp.polyu.edu.hk) at [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Prof. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/), and my B.E. degree from [the College of Computer Science and Technology](http://www.cs.zju.edu.cn/english/) at [Zhejiang University](http://www.zju.edu.cn/english/).
+My main area of interest is machine learning, both theoretical and practical, and build super fast machine learning system.
 
 
 ## Education
 
-`2017 - 2021`
+`2017 - 2022`
 __The Hong Kong Polytechnic University__  
 Ph.D. in Computer Science
 
 `2013 - 2017`
 __Zhejiang University__  
 B.E. in Computer Science
-
-
-{% include_relative publication_list.md %}
 
 
 ## Awards
@@ -46,24 +43,27 @@ Hong Kong Ph.D. Fellowship,
 250 out of 14,000+, 1.7% acceptance rate,  
 the Research Grants Council of Hong Kong.
 
-`2019-2021`
+<!-- `2019-2021`
 COMP Scholarship for HK PhD Fellowship Students,  
 the Department of Computing,  
-the Hong Kong Polytechnic University.
+the Hong Kong Polytechnic University. -->
 
 `2017-2019`
 Research Studentships,  
 the Hong Kong Polytechnic University.
 
-`2016`
+<!-- `2016`
 Second-Class Prize in HUAWEI Code Craft,  
-Huawei Technologies Co., Ltd.
+Huawei Technologies Co., Ltd. -->
 
-`2016` Honorable Mention in Mathematical Contest in Modeling,  
-the Consortium for Mathematics and Its Applications.
+<!-- `2016` Honorable Mention in Mathematical Contest in Modeling,  
+the Consortium for Mathematics and Its Applications. -->
 
 `2016` Excellent Group in Student Research Training Program,  
 Zhejiang University.
 
 `2015,2016` Scholarship for Outstanding Merits/Students,  
 Zhejiang University.
+
+
+{% include_relative publication_list.md %}
