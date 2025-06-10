@@ -12,8 +12,7 @@ I am looking for a job as
 -->
 
 ## Currently
-I am currently working at Parametrix.AI. 
-I obtained Ph.D. degree from [the Department of Computing](https://www.comp.polyu.edu.hk) at [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Prof. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/), and my B.E. degree from [the College of Computer Science and Technology](http://www.cs.zju.edu.cn/english/) at [Zhejiang University](http://www.zju.edu.cn/english/).
+I am currently working at [Jiwei Fund](http://www.jiweifund.com) as a quantitative researcher. Before that, I worked at [Parametrix.AI](https://parametrix.ai) as a machine learning scientist. I obtained Ph.D. degree from [the Department of Computing](https://www.comp.polyu.edu.hk) at [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Prof. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/), and my B.E. degree from [the College of Computer Science and Technology](http://www.cs.zju.edu.cn/english/) at [Zhejiang University](http://www.zju.edu.cn/english/).
 My main area of interest is machine learning, both theoretical and practical, and build super fast machine learning system.
 
 

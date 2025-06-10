@@ -3,7 +3,7 @@ layout: resume
 excerpt: "Li Qimai's Homepage.."
 ---
 
-I am currently working at Parametrix.AI. 
+I am currently working at [Jiwei Fund](http://www.jiweifund.com) as a quantitative researcher. Before that, I worked at [Parametrix.AI](https://parametrix.ai) as a machine learning scientist. 
 I obtained Ph.D. degree from [the Department of Computing](https://www.comp.polyu.edu.hk) at [the Hong Kong Polytechnic University](https://www.polyu.edu.hk), supervised by [Prof. Wu Xiao-Ming](http://www4.comp.polyu.edu.hk/~csxmwu/), and my B.E. degree from [the College of Computer Science and Technology](http://www.cs.zju.edu.cn/english/) at [Zhejiang University](http://www.zju.edu.cn/english/).
 My main area of interest is machine learning, both theoretical and practical, and build super fast machine learning systems.
 
@@ -20,6 +20,8 @@ My main area of interest is machine learning, both theoretical and practical, an
     - General-Purpose Tensor Programming
 
 ## News
+`2024` [Award] We were awarded [2024 Science and Technology Award by China Computer Federation, (2024年度“CCF科技成果奖”自然科学二等奖)](https://www.ccf.org.cn/Awards/Awards/2024-09-29/830336.shtml).
+
 `2023` [Award] Our paper, [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model](https://arxiv.org/abs/2311.13231), was selected as [HuggingFace Daily Paper](https://huggingface.co/papers?date=2023-11-23).
 
 `2023` [Diploma] I obtained my Ph.D. degree from [the Hong Kong Polytechnic University](https://www.polyu.edu.hk).
