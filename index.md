@@ -20,6 +20,8 @@ My main area of interest is machine learning, both theoretical and practical, an
     - General-Purpose Tensor Programming
 
 ## News
+`2025` [Award] I am selected as one of [Worlds' Top 2% Scientists 2025](/miscellaneous/worlds_top2_scientists.pdf) by Elsevier and Stanford University.
+
 `2024` [Award] We were awarded [2024 Science and Technology Award by China Computer Federation, (2024年度“CCF科技成果奖”自然科学二等奖)](https://www.ccf.org.cn/Awards/Awards/2024-09-29/830336.shtml).
 
 `2023` [Award] Our paper, [Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model](https://arxiv.org/abs/2311.13231), was selected as [HuggingFace Daily Paper](https://huggingface.co/papers?date=2023-11-23).

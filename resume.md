@@ -28,6 +28,8 @@ B.E. in Computer Science
 
 
 ## Awards
+`2025` [Worlds' Top 2% Scientists 2025](/miscellaneous/worlds_top2_scientists.pdf) by Elsevier and Stanford University.
+
 `2022`
 One of [The 2022 AI 2000 Most Influential Scholars](https://www.aminer.cn/ai2000?domain_ids=5dc122672ebaa6faa962bde8),  
 selected by AMiner.
